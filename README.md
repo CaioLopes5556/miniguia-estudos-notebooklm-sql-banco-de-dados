@@ -1,4 +1,5 @@
 # 🗄️ SQL & Banco de Dados: Guia de Estudos e Curadoria
+<img src="img/header_notebookLM.png" alt="print1" width="1200">
 
 Bem-vindo(a) a este repositório dedicado ao meu [Notebook](https://notebooklm.google.com/notebook/de465150-f876-4a4f-a6fe-8a21562d13b1) de **Banco de Dados** e à linguagem de consulta **SQL**. 
 
