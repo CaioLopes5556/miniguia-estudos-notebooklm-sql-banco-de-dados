@@ -1,6 +1,6 @@
 # 🗄️ SQL & Banco de Dados: Guia de Estudos e Curadoria
 
-Bem-vindo(a) a este repositório dedicado ao meu [Notebook](https://) de **Banco de Dados** e à linguagem de consulta **SQL**. 
+Bem-vindo(a) a este repositório dedicado ao meu [Notebook](https://notebooklm.google.com/notebook/de465150-f876-4a4f-a6fe-8a21562d13b1) de **Banco de Dados** e à linguagem de consulta **SQL**. 
 
 Escolhi este tema por ser extremamente útil tanto para a minha jornada profissional atual quanto para apoiar outras pessoas que estão ingressando na área de Tecnologia da Informação. Desde os tempos de curso técnico e faculdade, Banco de Dados e SQL sempre estiveram entre as minhas disciplinas favoritas.
 
@@ -49,11 +49,11 @@ Abaixo estão os registros dos testes e iterações estruturadas durante o desen
 
 | Iteração | Registro Visual do Prompt |
 | :---: | :--- |
-| **01** | `[Inserir PRINT 1]` |
-| **02** | `[Inserir PRINT 2]` |
-| **03** | `[Inserir PRINT 3]` |
-| **04** | `[Inserir PRINT 4]` |
-| **05** | `[Inserir PRINT 5]` |
+| **01** | <img src="img/print1.png" alt="print" width="800"> |
+| **02** | <img src="img/print2.png" alt="print" width="800"> |
+| **03** | <img src="img/print3.png" alt="print" width="800"> |
+| **04** | <img src="img/print4.png" alt="print" width="800"> |
+| **05** | <img src="img/print5.png" alt="print" width="800"> |
 
 ---
 
@@ -70,7 +70,7 @@ Ao final dos testes, a IA entregou o conteúdo exatamente conforme as instruçõ
 
 ## 📖 Miniguia de Estudos
 
-Neste [Notebook](https://) estão concentrados os principais conceitos de modelagem de dados e bancos de dados relacionais. Este material foi estruturado tanto para quem está iniciando sua jornada na área de Tecnologia da Informação quanto para profissionais que buscam revisar fundamentos e se aprofundar em técnicas avançadas de otimização.
+Neste [Notebook](https://notebooklm.google.com/notebook/de465150-f876-4a4f-a6fe-8a21562d13b1) estão concentrados os principais conceitos de modelagem de dados e bancos de dados relacionais. Este material foi estruturado tanto para quem está iniciando sua jornada na área de Tecnologia da Informação quanto para profissionais que buscam revisar fundamentos e se aprofundar em técnicas avançadas de otimização.
 
 ---
 
