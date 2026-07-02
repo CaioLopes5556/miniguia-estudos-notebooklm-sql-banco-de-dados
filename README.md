@@ -49,11 +49,12 @@ Abaixo estão os registros dos testes e iterações estruturadas durante o desen
 
 | Iteração | Registro Visual do Prompt |
 | :---: | :--- |
-| **01** | <img src="img/print1.png" alt="print" width="800"> |
-| **02** | <img src="img/print2.png" alt="print" width="800"> |
-| **03** | <img src="img/print3.png" alt="print" width="800"> |
-| **04** | <img src="img/print4.png" alt="print" width="800"> |
-| **05** | <img src="img/print5.png" alt="print" width="800"> |
+| **01** | <img src="img/print1.png" alt="print1" width="800"> |
+| **02** | <img src="img/print2.png" alt="print2" width="800"> |
+| **03** | <img src="img/print3.png" alt="print3" width="800"> |
+| **04** | <img src="img/print4.png" alt="print4" width="800"> |
+| **05** | <img src="img/print5.png" alt="print5" width="800"> |
+| **06** | <img src="img/print6.png" alt="print6" width="800"> |
 
 ---
 
